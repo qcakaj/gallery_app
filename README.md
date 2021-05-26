@@ -1,4 +1,4 @@
-# news_app
+# gallery_app
 
 gallery app with flutter
 
